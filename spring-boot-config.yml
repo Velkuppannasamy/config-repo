@@ -1,0 +1,8 @@
+app:
+  name: SpringBootConfigApplication
+  desc: welcome to ${app.name}
+
+db:
+   connection: "{ConnectionString :'https:___/',username:'vel',passsword :'1234'}"
+   host : 127.0.0.1
+   port : 8080
